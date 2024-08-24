@@ -1,8 +1,11 @@
 # Todo-List-App
 Store my first lesson react native
-# Run app
+
 # Requirement
-expo in mobile phone (android or ios)
+download expo in mobile phone (android or ios)\
+
+# Run app
+
 ```base
    npm start
 ```
