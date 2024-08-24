@@ -21,6 +21,9 @@ download expo in mobile phone (android or ios)\
  ```
    npx expo start
 ```
+4. Using camera by your smartphone
+   - Scan QR code and then open in Expo Go Application
+   - 
 # Create a project react native with blank template expo
 ```
    npx create-expo-app@latest MyApp --template blank
